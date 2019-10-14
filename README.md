@@ -4,13 +4,8 @@
 |Module | RatePAY Module for Shopware
 |------|----------
 |Author | Annegret Seufert
-<<<<<<< HEAD
-|Shop Version | `5.5.x` - `5.5.x`
-|Version | `5.4.1`
-=======
 |Shop Version | `5.5.x` - `5.6.x`
-|Version | `5.4.3`
->>>>>>> master
+|Version | `5.4.4`
 |Link | http://www.ratepay.com
 |Mail | integration@ratepay.com
 |Full Documentation | https://ratepay.gitbook.io/shopware/
