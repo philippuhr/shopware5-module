@@ -25,8 +25,9 @@
 
 ## Changelog
 
-### Version 5.4.5 - Released 2019-10-18
+### Version 5.4.5 - Released 2019-10-29
 * RATEPLUG-24: add support for different stores/subshops
+* RATEPLUG-20: add third-party support for extension "BogxProductConfigurator"
 * fix a few bugs with zero percent installment
 
 ### Version 5.4.4 - Released 2019-10-01
